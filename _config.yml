@@ -1,6 +1,6 @@
 title: My Awesome Site
 description: >- # this means to ignore newlines until "baseurl:"
   This is my awesome site hosted on GitHub Pages.
-baseurl: "/nic" # the subpath of your site, e.g. /blog
+baseurl: "/nic/" # the subpath of your site, e.g. /blog
 url: "http://jstoppi.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-minimal
